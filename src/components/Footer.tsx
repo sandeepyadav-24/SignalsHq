@@ -129,7 +129,7 @@ export default function Footer() {
       <div className="absolute bottom-0 right-0 w-[600px] h-[600px] bg-blue-400/10 rounded-full blur-[120px] -z-10" />
 
       {/* CTA Section */}
-      <div className="relative bg-[#2563EB] rounded-[40px] mx-8 lg:mx-16 mb-32">
+      <div className="relative bg-[#2563EB]  rounded-[40px]  lg:mx-16 mb-32">
         {/* Decorative Elements */}
         <div className="absolute -top-4 -left-4">
           <div className="w-8 h-8 bg-white/20 rotate-45" />
